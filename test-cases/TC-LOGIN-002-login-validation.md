@@ -38,3 +38,6 @@ Verify that the login form validates incorrect email formats and prevents submis
 
 ## QA Checklist Reference
 - checklists/qa-web-checklist.md
+
+## Related Bug
+- Login form allows submission with invalid email format
