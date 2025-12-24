@@ -1,0 +1,70 @@
+# Ecommerce QA Manual Testing Project
+
+## 📌 Project Overview
+This project simulates a real-world ecommerce platform (similar to Mercado Libre),
+focused on manual testing of Frontend and Backend functionalities.
+
+The objective is to validate user flows, business logic, API behavior,
+and the integration between frontend and backend.
+
+---
+
+## 🎯 Role
+**QA Manual Tester**
+
+---
+
+## 🧩 Scope of Testing
+- User Registration & Login
+- Product Catalog
+- Search & Filters
+- Shopping Cart
+- Checkout & Payment
+- User Profile
+- Backend APIs
+
+---
+
+## 🛠️ Testing Types
+- Functional Testing
+- UI/UX Testing
+- API Testing (Manual)
+- Integration Testing
+- Negative Testing
+
+---
+
+## 🔧 Tools Used
+- Browser DevTools (Network tab)
+- Postman (API testing)
+- Google Sheets / Markdown documentation
+- GitHub for version control
+
+---
+
+## 🧪 Test Artifacts
+- Test cases by module
+- API test scenarios
+- Bug reports with severity and steps to reproduce
+- Test plan document
+
+---
+
+## 🔗 Frontend & Backend Integration
+Requests sent from the frontend were validated using browser DevTools.
+API responses, status codes, and error handling were verified
+to ensure proper communication between layers.
+
+---
+
+## 📈 Key QA Responsibilities
+- Design and execute test cases
+- Validate frontend behavior and backend responses
+- Identify and report bugs with clear documentation
+- Verify fixes and regression testing
+
+---
+
+## 🚀 Outcome
+This project demonstrates hands-on experience in QA manual testing
+covering real ecommerce scenarios and industry-standard QA practices.
